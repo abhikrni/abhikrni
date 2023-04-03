@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning - React
+
+📫 How to reach me: [Twitter](https://www.twitter.com/abhikrni)
