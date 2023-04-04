@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning - React
+🌱 I’m currently learning - React, CSS
 
 📫 How to reach me: [Twitter](https://www.twitter.com/abhikrni)
